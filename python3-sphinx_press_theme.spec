@@ -7,7 +7,7 @@ Summary:	Sphinx-doc theme based on Vuepress
 Summary(pl.UTF-8):	Motyw Sphinksa oparty na Vuepress
 Name:		python3-sphinx_press_theme
 Version:	0.8.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinx-press-theme/
